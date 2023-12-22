@@ -1,5 +1,5 @@
 # North 
-<p align="center"><img src="https://drive.google.com/file/d/1M58x-3hg6FWU0HfZZQcxiYr7ByNKF-WE/view?usp=sharing" alt="Logo" width="200"/></p>
+<p align="center"><img src="North Logo.png" alt="Logo" width="200"/></p>
 North is a multimodal classifier, trained on North-African dialects to determine to which country the given sentence belongs.
 
 Developed by
