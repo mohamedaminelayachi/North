@@ -2,7 +2,7 @@
 
 North is a multimodal classifier, trained on North-African dialects to determine to which country the given sentence belongs.
 
-Developed by:
+Developed by
 **Mohamed Amine Layachi & Otmane El Bourki**
 
 Models used:
