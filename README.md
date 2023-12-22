@@ -19,7 +19,7 @@ The supported dialects:
 - Algerian (Arabic)
 - Egyptian (Arabic)
 
-**Please note that the main notebook you might want to interact with is North_Interface.ipynb. All the other files were used just for preprocessing and training purposes.**
+**Please note that the main notebook you might want to interact with is North_Interface.ipynb. All the other files were used just for training purposes (Preprocessing is integrated).**
 
 
 
