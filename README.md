@@ -21,6 +21,10 @@ The supported dialects:
 
 **Please note that the main notebook you might want to interact with is _'North - Dialectal Variance Classifier.ipynb'_. All the other files were used just for training purposes (Preprocessing is integrated).**
 
-
+## An Example
+- Enter your text
+- Select the alphabet (Latin or Arabic).
+- Check the classification
+<p align="center"><img src="North_Gradio.png" alt="Logo" width="1000"/></p>
 
 
