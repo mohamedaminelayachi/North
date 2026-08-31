@@ -1,6 +1,6 @@
  
 <p align="center"><img src="North Logo.png" alt="Logo" width="500"/></p>
-North is a multimodal classifier, trained on North-African dialects to determine to which country the given sentence belongs.
+North is a multilingual classifier, trained on North-African dialects to determine to which country the given sentence belongs.
 
 Developed by
 **Mohamed Amine Layachi & Otmane El Bourki**
